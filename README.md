@@ -1,4 +1,4 @@
-# CDS Semester Project In CPP
+# CDS Semester Project In C++
 
 # Welcome to Cafe Digital System (CDS) - C++ Project!
 
